@@ -1,3 +1,5 @@
+
+//Definiremos las propiedades mínimas requeridas que debe tener un usuario.
 export class User
 {
 	public id: number;
